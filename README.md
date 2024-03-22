@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro repositório curso Guanabara
+# Projeto Programação I
+ Projeto para a cadeira de Programação I
