@@ -25,7 +25,7 @@ def jogo_adivinhacao():
         jogadores.append(nome_jogador)
 
     # Mensagem de boas-vindas
-    if num_jogadores > 1:
+    if num_jogadores >= 1:
         print("\nVamos iniciar o jogo!\nAs regras são as seguintes:\n1. O objetivo é adivinhar o número secreto.\n2. Cada rodada todos os jogadores têm que dar um palpite.\n3. Ao fim de todas as rodadas, será dada uma dica.\n4. Se ao fim de 5 rodadas o número secreto não for acertado, ele será revelado e os jogadores perdem.\n5. Apesar de terem perdido, será mostrada a quantidade de pontos que cada jogador fez.\n\nBom jogo!\n")
 
     palpites_totais = 0
