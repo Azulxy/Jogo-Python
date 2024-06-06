@@ -60,3 +60,7 @@ def jogo_adivinhacao():
     print("Porcentagem de acertos dos jogadores:", porcentagem_acertos, "%")
 
 jogo_adivinhacao()
+#Parar o jogo quando algum jogardor acertar
+#fazer a interface
+#mostrar o range de escolhas
+#Melhorar o sistema de dicas (primo, par, impar, divisivel)
